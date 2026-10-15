@@ -1,7 +1,7 @@
 # 阿舞鹉时钟 - 更新清单
 # App 打开时拉这个文件，versionCode 比手机上装的大就提示更新
 
-versionCode=2
-versionName=1.1
-url=https://raw.githubusercontent.com/13126451229/awwcangku/main/enen-clock-1.1.apk
-notes=更新说明写在这里（一行就行）
+versionCode=3
+versionName=1.2
+url=https://raw.githubusercontent.com/13126451229/awwcangku/main/enen-clock-1.2.apk
+notes=新增「星夜」深色主题：星空蓝底 + 星光，小鸟换成星星连帽衫形象；更新改为 App 内直接下载安装
